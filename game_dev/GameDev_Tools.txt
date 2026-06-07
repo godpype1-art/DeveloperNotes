@@ -1,0 +1,19 @@
+GAME DEV TOOLKIT
+
+Development - Godot (main engine) - GDScript (primary language) - Git -
+GitHub
+
+Art - Aseprite (pixel art) - GIMP (image editing)
+
+Audio - Audacity (audio editing) - Freesound (sound effects source) -
+OpenGameArt (prototype music/assets)
+
+Content Creation - OBS Studio (recording and streaming) - DaVinci
+Resolve (video editing) - Kdenlive (Linux alternative editor) - ShareX
+(screenshots and GIFs)
+
+Organization - Trello or Notion
+
+Recommended PC Setup - Linux: 42 projects and programming - Windows:
+Godot project, OBS, editing, Android testing, marketing - Consider WSL
+on Windows if Linux tools are needed.
